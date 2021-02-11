@@ -1,6 +1,12 @@
 ---
 title: Africa
 layout: default
-permalink: /africa/ | relative_url
+permalink: /africa/
 ---
-**Africa**
+**Africa's Folk and Fairy Tales**
+
+**History**
+
+**Popular Stories**
+
+*The Bad Habit* from West Africa

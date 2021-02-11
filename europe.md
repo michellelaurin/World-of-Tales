@@ -3,4 +3,8 @@ title: Europe
 layout: default
 permalink: /europe/
 ---
-Europe
+**Europe's Folk and Fairy Tales**
+
+**History**
+
+**Popular Stories**

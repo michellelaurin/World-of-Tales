@@ -3,4 +3,8 @@ title: Resources
 layout: default
 permalink: /resources/
 ---
-Resources
+**Resources**
+
+For further information:
+
+- visit this website

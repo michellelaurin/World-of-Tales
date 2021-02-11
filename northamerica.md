@@ -3,4 +3,8 @@ title: North America
 layout: default
 permalink: /northamerica/
 ---
-North America
+**North America's Folk and Fairy Tales**
+
+**History**
+
+**Popular Stories**
