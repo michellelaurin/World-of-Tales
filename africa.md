@@ -1,6 +1,6 @@
 ---
 title: Africa
 layout: default
-permalink: /africa/
+permalink: /africa/ | relative_url
 ---
-Africa
+**Africa**
