@@ -1,10 +1,9 @@
 ---
-title: Homepage
+title: Home
 layout: default
 ---
-Hi, this is my homepage. This is a markdown demo.
+**Folk Tales versus Fairy Tales**
 
-This is a new paragraph. *This is italic* **This is bold**
-Now I'll add a [link](https://google.com/).
+**History**
 
-![alt text](https://imageurl.com).
+**Continents**
