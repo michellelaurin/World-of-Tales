@@ -16,14 +16,14 @@ One can find folk and fairy tales around the world and throughout every culture.
 
 **Continents**
 
-[Africa](<a href="{{'/africa/' | relative_url}}">Africa</a>)
+<a href="{{'/africa/' | relative_url}}">Africa</a>
 
-[Asia](<a href="{{'/asia/' | relative_url}}">Asia</a>)
+<a href="{{'/asia/' | relative_url}}">Asia</a>
 
-[Australia](<a href="{{'/australia/' | relative_url}}">Australia</a>)
+<a href="{{'/australia/' | relative_url}}">Australia</a>
 
-[Europe](<a href="{{'/europe/' | relative_url}}">Europe</a>)
+<a href="{{'/europe/' | relative_url}}">Europe</a>
 
-[North America](<a href="{{'/northamerica/' | relative_url}}">North America</a>)
+<a href="{{'/northamerica/' | relative_url}}">North America</a>
 
-[South America](<a href="{{'/southamerica/' | relative_url}}">South America</a>)
+<a href="{{'/southamerica/' | relative_url}}">South America</a>
