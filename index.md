@@ -16,14 +16,14 @@ One can find folk and fairy tales around the world and throughout every culture.
 
 **Continents**
 
-[Africa](http://127.0.0.1:4000/africa/)
+[Africa](<a href="{{'/africa/' | relative_url}}">Africa</a>)
 
-[Asia](http://127.0.0.1:4000/asia/)
+[Asia](<a href="{{'/asia/' | relative_url}}">Asia</a>)
 
-[Australia](http://127.0.0.1:4000/australia/)
+[Australia](<a href="{{'/australia/' | relative_url}}">Australia</a>)
 
-[Europe](http://127.0.0.1:4000/europe/)
+[Europe](<a href="{{'/europe/' | relative_url}}">Europe</a>)
 
-[North America](http://127.0.0.1:4000/northamerica/)
+[North America](<a href="{{'/northamerica/' | relative_url}}">North America</a>)
 
-[South America](http://127.0.0.1:4000/southamerica/)
+[South America](<a href="{{'/southamerica/' | relative_url}}">South America</a>)
