@@ -10,7 +10,7 @@ people were illiterate. As such, the tales were told orally from generation to g
 **History**
 
 *Folk and Fairy Tales* fall under the umbrella of the Traditional Narrative.
-*Folk Tales* have no known start date. Told orally, once spoken out loud, they were gone. From each teller to teller, the story could shift and change slightly. *Fairy Tales* have start dates as someone wrote them down, and we can look back to those dates.
+Told orally, folk tales have no known start date. Once spoken out loud, they were gone. From each teller to teller, the story could shift and change slightly. Fairy tales have start dates as someone wrote them down, and we can look back to those dates.
 
 One can find folk and fairy tales around the world and throughout every culture. Sadly, there has been a Eurocentric focus of these tales that has permeated Western society. As such, European stories for too long have been seen as superior or as the only tales people may know. Now, people can find many tales through book collections or the internet.
 
