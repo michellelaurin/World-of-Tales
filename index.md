@@ -18,13 +18,13 @@ One can find folk and fairy tales around the world and throughout every culture.
 
 <a href="{{'/africa/' | relative_url}}">Africa</a>
 
-Tales told from Africa reflect the various regions from which they came. These stories prominently feature animals who have human characteristics. These tales range in providing lessons whether having happy endings or not. They also include origin tales and why the world, animal, or plant is the way it is.
+Tales told from Africa reflect the various regions from which they came. These stories prominently feature animals who have human characteristics. These tales range in providing lessons whether having happy endings or not. They also include origin tales and why the world, animal, or plant is its way.
 
 <a href="{{'/asia/' | relative_url}}">Asia</a>
 
 <a href="{{'/australia/' | relative_url}}">Australia</a>
 
-Australian folk and fairy tales are the foundations of Australian First Peoples. The stories shared their laws, faith, and knowledge of the world around them. These tales reflect the way of life that the First Peoples lived and their spiritual practices.
+Australian folk and fairy tales are the foundations of Australian First Peoples. The stories share their laws, faith, and knowledge of the world around them.
 
 <a href="{{'/europe/' | relative_url}}">Europe</a>
 
