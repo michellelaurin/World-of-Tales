@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
+{% include head.html %}
 <body>
-        <header class="page-header" role="banner">
-          <h1 id="project_name">{{ site.title | default: site.github.repository_name }}</h1>
-          {% include navigation.html%}
-        </header>
+        {% include page-header.html %}
         <main id="content" class="main-content" role="main">
         {{ content }}
+        
     {% include footer.html %}
+    </main>
   </body>
 </html>
