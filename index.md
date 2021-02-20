@@ -22,6 +22,8 @@ Tales told from Africa reflect the various regions from which they came. These s
 
 <a href="{{'/asia/' | relative_url}}">Asia</a>
 
+Asia has a vast and unique cultural heritage. Their folk and fairy tales are still celebrated through festivals that honor animals and heroes' deeds from their stories.
+
 <a href="{{'/australia/' | relative_url}}">Australia</a>
 
 Australian folk and fairy tales are the foundations of Australian First Peoples. The stories share their laws, faith, and knowledge of the world around them.
@@ -32,4 +34,8 @@ Many of the more familiar folk and fairy tales come from this continent. However
 
 <a href="{{'/northamerica/' | relative_url}}">North America</a>
 
+North American tales include stories from the First Nations, European settlers, and African Americans. These tales tell of how the world came to be and stories of hope and perseverance.
+
 <a href="{{'/southamerica/' | relative_url}}">South America</a>
+
+With tales pre and post-colonization, South America is a continent rich in history where their tales can show the influences of wars and colonization in their countries.
