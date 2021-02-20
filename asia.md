@@ -1,6 +1,6 @@
 ---
 title: Asia
-layout: default
+layout: page
 permalink: /asia/
 ---
 **Asia's Folk and Fairy Tales**

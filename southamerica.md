@@ -1,6 +1,6 @@
 ---
 title: South America
-layout: default
+layout: page
 permalink: /southamerica/
 ---
 **South America's Folk and Fairy Tales**

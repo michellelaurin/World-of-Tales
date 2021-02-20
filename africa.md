@@ -1,6 +1,6 @@
 ---
 title: Africa
-layout: default
+layout: page
 permalink: /africa/
 ---
 **Africa's Folk and Fairy Tales**

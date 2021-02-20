@@ -1,6 +1,6 @@
 ---
 title: Europe
-layout: default
+layout: page
 permalink: /europe/
 ---
 **Europe's Folk and Fairy Tales**

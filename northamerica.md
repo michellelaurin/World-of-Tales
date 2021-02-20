@@ -1,6 +1,6 @@
 ---
 title: North America
-layout: default
+layout: page
 permalink: /northamerica/
 ---
 **North America's Folk and Fairy Tales**

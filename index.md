@@ -1,6 +1,6 @@
 ---
 title: Home
-layout: default
+layout: page
 ---
 **Folk Tales versus Fairy Tales**
 
