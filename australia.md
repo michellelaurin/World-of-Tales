@@ -1,6 +1,6 @@
 ---
 title: Australia
-layout: page
+layout: default
 permalink: /australia/
 ---
 **Australia's Folk and Fairy Tales**

@@ -1,6 +1,6 @@
 ---
-title: Home
-layout: page
+title: The World of Folk and Fairy Tales
+layout: default
 ---
 **Folk Tales versus Fairy Tales**
 
