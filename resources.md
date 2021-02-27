@@ -3,8 +3,10 @@ title: Resources
 layout: default
 permalink: /resources/
 ---
-**Resources**
+<h1>Resources</h1>
 
-For further information:
-
-- visit this website
+{% for resource in site.resources %}
+  <h3>{{ resource.title }}</h3>
+  <p>{{ resource.content }}</p>
+  <a href="{{ resources.source }}" target="_blank">Source</a>
+{% endfor %}
