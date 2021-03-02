@@ -43,7 +43,7 @@ One can find folk and fairy tales around the world and throughout every culture.
 
 <div class="column">
   <div class="container">
-    <img src="/assets/images/europe.png" alt="Europe" style="width:400px; height:400px;">
+    <img src="/assets/images/europe.png | relative_url" alt="Europe" style="width:400px; height:400px;">
     <div class="centered"><h2><a href="{{'/europe/' | relative_url}}">EUROPE</a></h2>Many of the more familiar folk and fairy tales come from this continent. However, this is a rich continent of stories that go beyond the usual tales.</div>
   </div>
   </div>
