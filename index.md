@@ -22,7 +22,7 @@ One can find folk and fairy tales around the world and throughout every culture.
 <div class="column">
   <div class="container">
     <img src="/assets/images/africa.png" alt="Africa" style="width:300px; height:300px;">
-    <div class="centered"><h2><a href="{{'/africa/' | relative_url}}">AFRICA</a></h2>Tales told from Africa reflect the various regions from which they came. These stories prominently feature animals who have human characteristics. These tales range in providing lessons whether having happy endings or not. They also include origin tales and why the world, animal, or plant is its way.</div>
+    <div class="centered"><h2><a href="{{'/africa/' | relative_url}}">AFRICA</a></h2>Tales told from Africa reflect the various regions from which they came. These stories prominently feature animals who have human characteristics, providing lessons whether having happy endings or not.</div>
   </div>
   </div>
 <div class="column">
@@ -30,7 +30,7 @@ One can find folk and fairy tales around the world and throughout every culture.
     <img src="/assets/images/asia.png" alt="Asia" style="width:500px; height:400px;">
     <div class="centered"><h2><a href="{{'/asia/' | relative_url}}">ASIA</a></h2>Asia has a vast and unique cultural heritage. Their folk and fairy tales are still celebrated through festivals that honor animals and heroes' deeds from their stories.</div>
   </div>
-</div>
+  </div>
 </div>
 
 <div class="row">
