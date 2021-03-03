@@ -4,8 +4,7 @@ layout: default
 ---
 <div><img src="/assets/images/beware.jpg" alt="A person wearing a red hooded cloak walking into the woods with the outline of a wolf in the distance" style="width:300px; height:300px;" align="right">
 <h1>Folk Tales versus Fairy Tales</h1>
-Folk Tales are stories told among the "folk" or common people of the nation. When looking back on the past, most "folk"
-people were illiterate. As such, the tales were told orally from generation to generation. These tales usually have animals that act with human characteristics. Men such as Charles Perrault and the Grimm brothers wrote the stories down into the versions we are most familiar with today. Fairy tales are stories credited to an author. Typically they include magical creature or characters and are rooted in magic.</div>
+Folk Tales are stories told among the "folk" or common people of the nation. When looking back on the past, most "folk" people were illiterate. As such, the tales were told orally from generation to generation. These tales usually have animals that act with human characteristics. Men such as Charles Perrault and the Grimm brothers wrote the stories down into the versions we are most familiar with today. Fairy tales are stories credited to an author. Typically they include magical creature or characters and are rooted in magic.</div>
 
 <br>
 
