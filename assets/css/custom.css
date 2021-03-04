@@ -177,6 +177,10 @@ a:hover { text-decoration: underline; }
     .main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 { margin-top: 2rem; margin-bottom: 1rem; font-weight: normal; color: #001D47; }
     .main-content p { margin-bottom: 1em; font-weight: normal; color: #000000; }
 
+    h1 {
+      text-align: center;
+    }
+
     /* Container holding the image and the text */
     .container {
       background-size: contain;
@@ -222,9 +226,10 @@ a:hover { text-decoration: underline; }
 
     /* Three image containers (use 25% for four, and 50% for two, etc) */
    .column {
-     float: left;
+     float: right;
      width: 50%;
-     padding: 5px;
+     padding-right: 20px;
+     padding-bottom: 20px;
    }
 
    /* Clear floats after image containers */
@@ -232,6 +237,10 @@ a:hover { text-decoration: underline; }
      content: "";
      clear: both;
      display: table;
+   }
+
+   .centered {
+     text-align: center;
    }
 
 .summary.right img {
