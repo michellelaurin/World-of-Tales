@@ -22,3 +22,6 @@ collections:
   resources:
     output: true
     layout: resources
+  tales:
+    output: true
+    layout: tales
