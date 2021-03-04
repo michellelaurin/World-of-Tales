@@ -45,3 +45,5 @@ One can find folk and fairy tales around the world and throughout every culture.
     <div class="centered"><h2>SOUTH AMERICA</h2>With tales pre and post-colonization, South America is a continent rich in history where their tales can show the influences of wars and colonization in their countries.</div>
   </div>
 </div>
+
+<h1><a href="{{'/bibliographies/' | relative_url}}">Annotated Bibliographies</a></h1>
