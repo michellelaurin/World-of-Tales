@@ -1,5 +1,5 @@
 ---
-title: The World of Folk and Fairy Tales
+title: The World Of Folk And Fairy Tales
 layout: default
 ---
 <div class="summary right"><img src="{{"/assets/images/beware.jpg" | relative_url}}" alt="A person wearing a red hooded cloak walking into the woods with the outline of a wolf in the distance">
@@ -15,47 +15,18 @@ Told orally, folk tales have no known start date. Once spoken out loud, they wer
 
 One can find folk and fairy tales around the world and throughout every culture. Sadly, there has been a Eurocentric focus of these tales that has permeated Western society. As such, European stories for too long have been seen as superior or as the only tales people may know. Now, people can find many tales through book collections or the internet.</div>
 
-<a href="{{'/tales/' | relative_url}}">TALES</a>
+<h1><a href="{{'/tales/' | relative_url}}">TALES</a></h1>
 
 <h1>Continents</h1>
 
-<div class="row">
-<div class="column">
-  <div class="container africa">
-    <div class="centered"><h2><a href="{{'/africa/' | relative_url}}">AFRICA</a></h2>Tales told from Africa reflect the various regions from which they came. These stories prominently feature animals who have human characteristics, providing lessons whether having happy endings or not.</div>
-  </div>
-  </div>
-<div class="column">
-  <div class="container asia">
-    <div class="centered"><h2><a href="{{'/asia/' | relative_url}}">ASIA</a></h2>Asia has a vast and unique cultural heritage. Their folk and fairy tales are still celebrated through festivals that honor animals and heroes' deeds from their stories.</div>
-  </div>
-  </div>
-</div>
+<h2>AFRICA</h2>Tales told from Africa reflect the various regions from which they came. These stories prominently feature animals who have human characteristics, providing lessons whether having happy endings or not.
 
-<div class="row">
-<div class="column">
-  <div class="container australia">
-    <div class="centered"><h2><a href="{{'/australia/' | relative_url}}">AUSTRALIA</a></h2>Australian folk and fairy tales are the foundations of Australian First Peoples. The stories share their laws, faith, and knowledge of the world around them.</div>
-  </div>
-  </div>
+<h2>Asia</h2>Asia has a vast and unique cultural heritage. Their folk and fairy tales are still celebrated through festivals that honor animals and heroes' deeds from their stories.
 
-<div class="column">
-  <div class="container europe">
-    <div class="centered"><h2><a href="{{'/europe/' | relative_url}}">EUROPE</a></h2>Many of the more familiar folk and fairy tales come from this continent. However, this is a rich continent of stories that go beyond the usual tales.</div>
-  </div>
-  </div>
-</div>
+<h2>Australia</h2>Australian folk and fairy tales are the foundations of Australian First Peoples. The stories share their laws, faith, and knowledge of the world around them.
 
-<div class="row">
-<div class="column">
-  <div class="container northamerica">
-    <div class="centered"><h2><a href="{{'/northamerica/' | relative_url}}">NORTH AMERICA</a></h2>North American tales include stories from the First Nations, European settlers, and African Americans. These tales tell of how the world came to be and stories of hope and perseverance.</div>
-  </div>
-  </div>
+<h2>Europe</h2>Many of the more familiar folk and fairy tales come from this continent. However, this is a rich continent of stories that go beyond the usual tales.
 
-<div class="column">
-  <div class="container southamerica">
-    <div class="centered"><h2><a href="{{'/southamerica/' | relative_url}}">SOUTH AMERICA</a></h2>With tales pre and post-colonization, South America is a continent rich in history where their tales can show the influences of wars and colonization in their countries.</div>
-  </div>
-  </div>
-</div>
+<h2>North America</h2>North American tales include stories from the First Nations, European settlers, and African Americans. These tales tell of how the world came to be and stories of hope and perseverance.
+
+<h2>South America</h2>With tales pre and post-colonization, South America is a continent rich in history where their tales can show the influences of wars and colonization in their countries.
