@@ -179,16 +179,45 @@ a:hover { text-decoration: underline; }
 
     /* Container holding the image and the text */
     .container {
-      position: relative;
+      background-size: contain;
       text-align: center;
       color: black;
     }
-    /* Centered text */
-    .centered {
-      position: absolute;
-      top: 50%;
-      left: 50%;
-      transform: translate(-50%, -50%);
+
+    .container.africa {
+      background-image: url({{"/assets/images/africa.png" | relative_url}});
+      width: 300px;
+      height: 300px;
+    }
+
+    .container.asia {
+      background-image: url({{"/assets/images/asia.png" | relative_url}});
+      width:500px;
+      height:400px;
+    }
+
+    .container.australia {
+      background-image: url({{"/assets/images/australia.png" | relative_url}});
+      width: 500px;
+      height: 400px;
+    }
+
+    .container.europe {
+      background-image: url({{"/assets/images/europe.png" | relative_url}})
+      width: 400px;
+      height: 400px;
+    }
+
+    .container.northamerica {
+      background-image: url({{"/assets/images/north_america.png" | relative_url}});
+      width:600px;
+      height:400px;
+    }
+
+    .container.southamerica {
+      background-image: url({{"/assets/images/south_america.png" | relative_url}});
+      width:400px;
+      height:400px;
     }
 
     /* Three image containers (use 25% for four, and 50% for two, etc) */
@@ -204,6 +233,22 @@ a:hover { text-decoration: underline; }
      clear: both;
      display: table;
    }
+
+.summary.right img {
+  margin-right: 10px;
+  float: left;
+  width: 300px;
+  height:300px;
+  border-radius: 150px;
+}
+
+.summary.left img {
+  margin-right: 10px;
+  float: right;
+  width: 300px;
+  height: 300px;
+  border-radius: 150px;
+}
 
 .site-footer {
   background-color: transparent;
