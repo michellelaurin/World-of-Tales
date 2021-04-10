@@ -1,5 +1,5 @@
 ---
-title: Daydreams - Old Russian Tale of Ivan
+title: Daydreams - Russian Tale
 layout: default
 source: https://www.amazon.com/Ivan-Stories-Russia-Oxford-Legends/dp/0192741357
 category: European Tales

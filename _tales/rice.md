@@ -1,5 +1,5 @@
 ---
-title: My Lord Bag Of Rice - Japanese Fairy Tale
+title: My Lord Bag Of Rice - Japanese Tale
 layout: default
 source: https://www.amazon.com/Ivan-Stories-Russia-Oxford-Legends/dp/0192741357
 category: Asia Tales

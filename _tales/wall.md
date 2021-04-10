@@ -1,5 +1,5 @@
 ---
-title: The Building Of The Wall - Norse Myth
+title: The Building Of The Wall - Norse Tale
 layout: default
 source: https://www.gutenberg.org/files/24737/24737-h/24737-h.htm#Page_3
 category: European Tales
