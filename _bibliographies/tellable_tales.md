@@ -1,5 +1,6 @@
 ---
 title: Twenty Tellable Tales
+layout: default
 source: https://www.amazon.com/Dreamtime-Aboriginal-Stories-Oodgeroo-Nunukul/dp/0688132960
 category: Bibliographies
 ---

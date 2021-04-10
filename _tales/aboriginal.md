@@ -1,5 +1,6 @@
 ---
 title: The Beginning of Life - Aboriginal Origin Story
+layout: default
 source: https://www.amazon.com/Dreamtime-Aboriginal-Stories-Oodgeroo-Nunukul/dp/0688132960
 category: Australian Tales
 ---

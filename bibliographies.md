@@ -5,7 +5,8 @@ permalink: /bibliographies/
 ---
 <h1>Annotated Bibliographies</h1>
 {% for bibliographie in site.bibliographies %}
-  <h3>{{ bibliographie.title }}</h3>
-  <p>{{ bibliographie.content }}</p>
+  <div class="teaser-content">
+  <h3><a href="{{ bibliographie.url}}" alt="go to the detail page">{{ bibliographie.title }}</a></h3>
+  <p>{{ bibliographie.content | truncatewords: 50, "..." }}</p>
   <a href="{{ bibliographie.source }}" target="_blank">Source</a>
 {% endfor %}
