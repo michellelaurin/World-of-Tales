@@ -47,3 +47,5 @@ One can find folk and fairy tales around the world and throughout every culture.
 </div>
 
 <h1><a href="{{'/bibliographies/' | relative_url}}">Annotated Bibliographies</a></h1>
+
+<p>What is an annotated bibliography? A brief descriptive and evaluative paragraph to inform the reader of the relevance, accuracy, and quality of the sources cited.</p>
