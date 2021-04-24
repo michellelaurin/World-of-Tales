@@ -259,6 +259,9 @@ a:hover { text-decoration: underline; }
   border-radius: 150px;
 }
 
+.teaser-content {
+  margin-bottom: 30px;
+}
 
 .site-footer {
   background-color: transparent;
