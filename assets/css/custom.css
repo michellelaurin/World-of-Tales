@@ -259,6 +259,7 @@ a:hover { text-decoration: underline; }
   border-radius: 150px;
 }
 
+
 .site-footer {
   background-color: transparent;
   background-image: url({{ '/assets/images/map.jpg' | relative_url }});

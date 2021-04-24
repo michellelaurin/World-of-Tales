@@ -9,4 +9,5 @@ permalink: /bibliographies/
   <h3><a href="{{ bibliographie.url}}" alt="go to the detail page">{{ bibliographie.title }}</a></h3>
   <p>{{ bibliographie.content | truncatewords: 50, "..." }}</p>
   <a href="{{ bibliographie.source }}" target="_blank">Source</a>
+  </div>
 {% endfor %}

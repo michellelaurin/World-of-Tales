@@ -10,4 +10,5 @@ permalink: /tales/
   <h3><a href="{{ tale.url }}" alt="go to the detail page">{{ tale.title }}</a></h3>
   <p>{{ tale.content | truncatewords: 50, "..." }}</p>
   <a href="{{ tale.source }}" target="_blank">Source</a>
+  </div>
 {% endfor %}
