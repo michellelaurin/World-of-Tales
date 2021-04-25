@@ -4,10 +4,36 @@ layout: default
 permalink: /bibliographies/
 ---
 <h1>Annotated Bibliographies</h1>
-{% for bibliographie in site.bibliographies %}
-  <div class="teaser-content">
-  <h3><a href="{{ bibliographie.url}}" alt="go to the detail page">{{ bibliographie.title }}</a></h3>
-  <p>{{ bibliographie.content | truncatewords: 50, "..." }}</p>
-  <a href="{{ bibliographie.source }}" target="_blank">Source</a>
+
+<div class="card card-nav-tabs card-plain">
+  <div class="card-header card-header-danger">
+    <!-- colors: "header-primary", "header-info", "header-success","header-warning", "header-danger" -->
+    <div class="na-tabs-navigation">
+      <div class="nav-tabs-wrapper">
+        <ul class="nav nav-tabs" data-tabs="tabs">
+          <li class="nav-item">
+            <a class="nav-link active show" href="#alpha" data-toggle="tab">Sort Alphabetically<div class="ripple-container"></div></a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#author" data-toggle="tab">Sort by Author<div class="ripple-container"</div></a>
+          </li>
+        </ul>
+      </div>
+    </div>
   </div>
-{% endfor %}
+  <div class="card-body ">
+    <div class="tab-content text-center">
+      <div class="tab-pane active show" id="alpha">
+        {% for bibliographie in site.bibliographies %}
+          <div class="teaser-content">
+          <h3><a href="{{ bibliographie.url}}" alt="go to the detail page">{{ bibliographie.title }}</a></h3>
+          <p>{{ bibliographie.content | truncatewords: 50, "..." }}</p>
+          <a href="{{ bibliographie.source }}" target="_blank">Source</a>
+          </div>
+        {% endfor %}
+      </div>
+      <div class="tab-pane" id="author">
+      </div>
+    </div>
+  </div>
+</div>
