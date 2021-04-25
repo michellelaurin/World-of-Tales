@@ -1,27 +1,6 @@
 theme: jekyll-theme-cayman
 title: "The World Of Folk & Fairy Tales"
 collections:
-  africa_tales:
-    output: true
-    layout: africa_tales
-  asia_tales:
-    output: true
-    layout: asia_tales
-  australia_tales:
-    output: true
-    layout: australia_tales
-  europe_tales:
-    output: true
-    layout: europe_tales
-  northamerica_tales:
-    output: true
-    layout: northamerica_tales
-  southamerica_tales:
-    output: true
-    layout: southamerica_tales
-  resources:
-    output: true
-    layout: resources
   tales:
     output: true
     layout: tales
