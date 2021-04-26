@@ -27,6 +27,7 @@ permalink: /bibliographies/
         {% for bibliographie in site.bibliographies %}
           <div class="teaser-content">
           <h3><a href="{{ bibliographie.url}}" alt="go to the detail page">{{ bibliographie.title }}</a></h3>
+          <p><small>Author: <em>{{ bibliography.category }}</em></small></p>
           <p>{{ bibliographie.content | truncatewords: 50, "..." }}</p>
           <a href="{{ bibliographie.source }}" target="_blank">Source</a>
           </div>
@@ -37,6 +38,7 @@ permalink: /bibliographies/
         {% for bibliographie in sorted_bibliographies %}
           <div class="teaser-content">
           <h3><a href="{{ bibliographie.url}}" alt="go to the detail page">{{ bibliographie.title }}</a></h3>
+          <p><small>Author: <em>{{ bibliography.category }}</em></small>
           <p>{{ bibliographie.content | truncatewords: 50, "..." }}</p>
           <a href="{{ bibliographie.source }}" target="_blank">Source</a>
           </div>

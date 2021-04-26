@@ -2,7 +2,7 @@
 title: Anancy and Mr. Dry-Bone
 layout: default
 source: https://www.amazon.com/gp/product/0316292982/ref=dbs_a_def_rwt_hsch_vapi_taft_p1_i4
-category: Bibliographies
+category: French
 ---
 French, F. (1991). Anancy and Mr. Dry-Bone. Little, Brown.
 

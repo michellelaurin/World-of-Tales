@@ -19,33 +19,32 @@ One can find folk and fairy tales around the world and throughout every culture.
 
 <div class="row">
 <div class="column">
-    <div class="centered"><h2>AFRICA</h2>Tales told from Africa reflect the various regions from which they came. These stories prominently feature animals who have human characteristics, providing lessons whether having happy endings or not.</div>
+    <div class="centered"><h3>AFRICA</h3>Tales told from Africa reflect the various regions from which they came. These stories prominently feature animals who have human characteristics, providing lessons whether having happy endings or not.</div>
   </div>
 <div class="column">
-    <div class="centered"><h2>ASIA</h2>Asia has a vast and unique cultural heritage. Their folk and fairy tales are still celebrated through festivals that honor animals and heroes' deeds from their stories.</div>
-  </div>
-</div>
-
-<div class="row">
-<div class="column">
-    <div class="centered"><h2>AUSTRALIA</h2>Australian folk and fairy tales are the foundations of Australian First Peoples. The stories share their laws, faith, and knowledge of the world around them.</div>
-  </div>
-
-<div class="column">
-    <div class="centered"><h2>EUROPE</h2>Many of the more familiar folk and fairy tales come from this continent. However, this is a rich continent of stories that go beyond the usual tales.</div>
+    <div class="centered"><h3>ASIA</h3>Asia has a vast and unique cultural heritage. Their folk and fairy tales are still celebrated through festivals that honor animals and heroes' deeds from their stories.</div>
   </div>
 </div>
 
 <div class="row">
 <div class="column">
-    <div class="centered"><h2>NORTH AMERICA</h2>North American tales include stories from the First Nations, European settlers, and African Americans. These tales tell of how the world came to be and stories of hope and perseverance.</div>
+    <div class="centered"><h3>AUSTRALIA</h3>Australian folk and fairy tales are the foundations of Australian First Peoples. The stories share their laws, faith, and knowledge of the world around them.</div>
   </div>
 
 <div class="column">
-    <div class="centered"><h2>SOUTH AMERICA</h2>With tales pre and post-colonization, South America is a continent rich in history where their tales can show the influences of wars and colonization in their countries.</div>
+    <div class="centered"><h3>EUROPE</h3>Many of the more familiar folk and fairy tales come from this continent. However, this is a rich continent of stories that go beyond the usual tales.</div>
+  </div>
+</div>
+
+<div class="row">
+<div class="column">
+    <div class="centered"><h3>NORTH AMERICA</h3>North American tales include stories from the First Nations, European settlers, and African Americans. These tales tell of how the world came to be and stories of hope and perseverance.</div>
+  </div>
+
+<div class="column">
+    <div class="centered"><h3>SOUTH AMERICA</h3>With tales pre and post-colonization, South America is a continent rich in history where their tales can show the influences of wars and colonization in their countries.</div>
   </div>
 </div>
 
 <h1><a href="{{'/bibliographies/' | relative_url}}">Annotated Bibliographies</a></h1>
-
-<p>What is an annotated bibliography? A brief descriptive and evaluative paragraph to inform the reader of the relevance, accuracy, and quality of the sources cited.</p>
+What is an annotated bibliography? A brief descriptive and evaluative paragraph to inform the reader of the relevance, accuracy, and quality of the sources cited.

@@ -2,7 +2,7 @@
 title: Abadeha - the Philippine Cinderella
 layout: default
 source: https://www.amazon.com/Abadeha-Philippine-Cinderella-Myrna-Paz/dp/1885008449/ref=sr_1_1?dchild=1&keywords=Abadeha%3A+the+Philippine+Cinderella&link_code=qs&qid=1619376690&sourceid=Mozilla-search&sr=8-1
-category: Bibliographies
+category: de la Paz
 ---
 de la Paz, M. J., & Tang, Y. (2014). Abadeha: the Philippine Cinderella. Shen's Books.
 
