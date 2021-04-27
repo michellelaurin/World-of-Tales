@@ -2,7 +2,7 @@
 title: The Khan's Daughter - A Mongolian Folktale
 layout: default
 source: https://www.amazon.com/Khans-Daughter-Mongolian-Folktale/dp/0590483897/ref=sr_1_1?dchild=1&keywords=The+Khan%27s+Daughter%3A+A+Mongolian+Folktale&qid=1619453596&s=books&sr=1-1
-category: Bibliographies
+author: Yep
 ---
 Yep, L., Tseng, J., & Tseng, M-S. (1997). The Khan's Daughter: A Mongolian Folktale. Scholastic.
 

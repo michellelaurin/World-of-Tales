@@ -2,7 +2,7 @@
 title: The Crane Maiden
 layout: default
 source: https://www.amazon.com/Crane-Maiden-Translated-Tsuru-Ongaeshi/dp/B000NZSCG6/ref=sr_1_1?dchild=1&keywords=The+Crane+Maiden&qid=1619377176&s=books&sr=1-1
-category: Bibliographies
+author: Matsutani
 ---
 Matsutani, M., & Iwasaki, C. (1968). The Crane Maiden. (A. Tresselt, Trans.). Parents' Magazine Press.
 

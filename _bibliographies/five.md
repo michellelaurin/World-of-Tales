@@ -2,7 +2,7 @@
 title: Five-Minute Tales - More Stories To Read And Tell When Time Is Short
 layout: default
 source: https://www.amazon.com/Five-Minute-Tales-Stories-Short/dp/0874837820/ref=sr_1_1?dchild=1&keywords=Five-Minute+Tales%3A+More+Stories+To+Read+And+Tell+When+Time+Is+Short&qid=1619453455&s=books&sr=1-1
-category: Bibliographies
+author: MacDonald
 ---
 MacDonald, M. R. (2007). Five-Minute Tales: More Stories To Read And Tell When Time Is Short. August House Publishers.
 

@@ -2,7 +2,7 @@
 title: We Goddesses - Athena, Aphrodite, Hera
 layout: default
 source: https://www.amazon.com/We-Goddesses-Athena-Aphrodite-Hera/dp/0789425866/ref=sr_1_1?dchild=1&keywords=We+Goddesses%3A+Athena%2C+Aphrodite%2C+Hera&qid=1619453525&s=books&sr=1-1
-category: Bibliographies
+author: Orgel
 ---
 Orgel, D., & Heyer, M. (2000). We Goddesses: Athena, Aphrodite, Hera. DK Publishing.
 

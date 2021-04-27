@@ -2,7 +2,7 @@
 title: The King Who Tried To Fry An Egg On His Head
 layout: default
 source: https://www.amazon.com/King-Who-Tried-Fry-Head/dp/0027362426/ref=sr_1_1?dchild=1&keywords=The+King+Who+Tried+To+Fry+An+Egg+On+His+Head&qid=1619377088&s=books&sr=1-1
-category: Ginsburg
+author: Ginsburg
 ---
 Ginsburg, M., & Hillenbrand, W. (1992). The King Who Tried To Fry An Egg On His Head: Based On A Russian Tale. Macmillan.
 

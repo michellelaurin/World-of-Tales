@@ -27,18 +27,18 @@ permalink: /bibliographies/
         {% for bibliographie in site.bibliographies %}
           <div class="teaser-content">
           <h3><a href="{{ bibliographie.url}}" alt="go to the detail page">{{ bibliographie.title }}</a></h3>
-          <p><small>Author: <em>{{ bibliography.category }}</em></small></p>
+          <p><small>Author: <em>{{ bibliographie.author }}</em></small></p>
           <p>{{ bibliographie.content | truncatewords: 50, "..." }}</p>
           <a href="{{ bibliographie.source }}" target="_blank">Source</a>
           </div>
         {% endfor %}
       </div>
-      <div class="tab-pane" id="weight">
+      <div class="tab-pane" id="author">
         {% assign sorted_bibliographies = site.bibliographies | sort: "author" %}
         {% for bibliographie in sorted_bibliographies %}
           <div class="teaser-content">
           <h3><a href="{{ bibliographie.url}}" alt="go to the detail page">{{ bibliographie.title }}</a></h3>
-          <p><small>Author: <em>{{ bibliography.category }}</em></small>
+          <p><small>Author: <em>{{ bibliographie.author }}</em></small>
           <p>{{ bibliographie.content | truncatewords: 50, "..." }}</p>
           <a href="{{ bibliographie.source }}" target="_blank">Source</a>
           </div>
@@ -47,3 +47,5 @@ permalink: /bibliographies/
     </div>
   </div>
 </div>
+
+<p>This will be where I put the word doc, make sure to add to assest folder<a href=""></a></p>

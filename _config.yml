@@ -7,5 +7,3 @@ collections:
   bibliographies:
     output: true
     layout: bibliographies
-  category:
-    output: true

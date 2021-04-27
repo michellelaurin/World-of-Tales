@@ -2,7 +2,7 @@
 title: The Dragon Takes A Wife
 layout: default
 source: https://www.amazon.com/Dragon-Takes-Wife-Walter-Myers/dp/0590466941/ref=sr_1_1?dchild=1&keywords=The+Dragon+Takes+A+Wife&qid=1619377284&s=books&sr=1-1
-category: Bibliographies
+author: Myers
 ---
 Myers, W. D., & French, F. (1972). The Dragon Takes A Wife. Scholastic.
 

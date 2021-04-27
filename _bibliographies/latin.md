@@ -2,7 +2,7 @@
 title: Latin American Folktales - Stories From Hispanic And Indian Traditions
 layout: default
 source: https://www.amazon.com/Latin-American-Folktales-Hispanic-Traditions/dp/0375714391/ref=sr_1_1?dchild=1&keywords=Latin+American+Folktales%3A+Stories+From+Hispanic+And+Indian+Traditions&qid=1619453369&s=books&sr=1-1
-category: Bibliographies
+author: Bierhorst
 ---
 Bierhorst, J. (Ed.). (2003). Latin American Folktales: Stories From Hispanic And Indian Traditions. Pantheon Books.
 

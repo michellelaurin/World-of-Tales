@@ -2,7 +2,7 @@
 title: Cupid and Psyche - A Love Story
 layout: default
 source: https://www.amazon.com/Cupid-Psyche-Story-Edna-Barth/dp/0395288401/ref=sr_1_1?dchild=1&keywords=Cupid+and+Psyche%3A+A+Love+Story&qid=1619453280&s=books&sr=1-1
-category: Bibliographies
+author: Barth
 ---
 Barth, E., & Forberg, A. (1976). Cupid and Psyche: A Love Story. Seabury Press.
 
