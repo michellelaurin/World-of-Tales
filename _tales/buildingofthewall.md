@@ -3,6 +3,7 @@ title: The World Of Folk And Fairy Tales
 layout: default
 source: https://www.gutenberg.org/files/24737/24737-h/24737-h.htm#Page_3
 category: European Tales
+heading: The Building Of The Wall - Norse Tale
 img: /assets/images/building_the_wall.jpg
 ---
 <h3><a href="{{'/tales/buildingofthewall/' | relative_url}}">The Building Of The Wall - Norse Tale</a></h3>
