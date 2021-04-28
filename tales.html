@@ -8,7 +8,7 @@ permalink: /tales/
 {% for tale in site.tales %}
   <div class="teaser-content clearfix">
   <div class="summary right"><img src="{{ tale.img | relative_url}}" alt="Horse putting stones on top of another to build a wall"></div>
-  <p>{{ tale.content | truncatewords: 100, "..." }}</p>
+  <p>{{ tale.content | relative_url | truncatewords: 100, "..." }}</p>
   <a href="{{ tale.source }}" target="_blank">Source</a>
   </div>
 {% endfor %}
