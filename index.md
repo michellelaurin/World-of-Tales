@@ -46,5 +46,8 @@ One can find folk and fairy tales around the world and throughout every culture.
   </div>
 </div>
 
+<div class="summary right"><img src="{{"/assets/images/coming_home.jpg" | relative_url}}" alt="The three bears entering their home and finding it in disarray with honey spilt with tracks leading to their armchair">
 <h1><a href="{{'/bibliographies/' | relative_url}}">Annotated Bibliographies</a></h1>
-What is an annotated bibliography? A brief descriptive and evaluative paragraph to inform the reader of the relevance, accuracy, and quality of the sources cited.
+What is an annotated bibliography?
+
+An annotated bibliography is a brief descriptive and evaluative paragraph to inform the reader of the relevance, accuracy, and quality of the sources cited. In this section, there is an assortment of fifteen folk and fairy tale picture books and collections evaluated. These books include author-created tales, tales the authors found in other books, and stories told to the author, who then share them with their audience. The stories within these books are from cultures, countries, and people groups located worldwide.</div>
