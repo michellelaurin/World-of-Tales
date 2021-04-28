@@ -1,8 +1,9 @@
 ---
-title: Anancy and Mr. Dry-Bone
+title: The World Of Folk And Fairy Tales
 layout: default
 source: https://www.amazon.com/gp/product/0316292982ref=dbs_a_def_rwt_hsch_vapi_taft_p1_i4
 author: French
+heading: Anancy and Mr. Dry-Bone
 ---
 <div class="summary left"><img src="{{"/assets/images/anancy.jpg" | relative_url}}" alt="Man leaning against a building with a skeleton man dancing in the distance">
 

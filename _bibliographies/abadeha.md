@@ -1,8 +1,9 @@
 ---
-title: Abadeha - the Philippine Cinderella
+title: The World Of Folk And Fairy Tales
 layout: default
 source: https://www.amazon.com/Abadeha-Philippine-Cinderella-Myrna-Paz/dp/1885008449/ref=sr_1_1?dchild=1&keywords=Abadeha%3A+the+Philippine+Cinderella&link_code=qs&qid=1619376690&sourceid=Mozilla-search&sr=8-1
 author: De la Paz
+heading: Abadeha - the Philippine Cinderella
 ---
 <div class="summary left"><img src="{{"/assets/images/abadeha.jpg" | relative_url}}" alt="Girl wearing traditional Philippine clothing embracing male while looking off to the distance">
 

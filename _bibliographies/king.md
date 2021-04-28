@@ -1,8 +1,9 @@
 ---
-title: The King Who Tried To Fry An Egg On His Head
+title: The World Of Folk And Fairy Tales
 layout: default
 source: https://www.amazon.com/King-Who-Tried-Fry-Head/dp/0027362426/ref=sr_1_1?dchild=1&keywords=The+King+Who+Tried+To+Fry+An+Egg+On+His+Head&qid=1619377088&s=books&sr=1-1
 author: Ginsburg
+heading: The King Who Tried To Fry An Egg On His Head
 ---
 <div class="summary left"><img src="{{"/assets/images/king.jpg" | relative_url}}" alt="A bald-headed man wearing kingly clothes cracking an egg on his head">
 

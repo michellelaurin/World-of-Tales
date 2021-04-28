@@ -1,8 +1,9 @@
 ---
-title: Cupid and Psyche - A Love Story
+title: The World Of Folk And Fairy Tales
 layout: default
 source: https://www.amazon.com/Cupid-Psyche-Story-Edna-Barth/dp/0395288401/ref=sr_1_1?dchild=1&keywords=Cupid+and+Psyche%3A+A+Love+Story&qid=1619453280&s=books&sr=1-1
 author: Barth
+heading: Cupid and Psyche - A Love Story
 ---
 <div class="summary left"><img src="{{"/assets/images/cupid.jpg" | relative_url}}" alt="Grecian girl laying on her side with only her face visible with cupid flying above her">
 

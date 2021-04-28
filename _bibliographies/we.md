@@ -1,8 +1,9 @@
 ---
-title: We Goddesses - Athena, Aphrodite, Hera
+title: The World Of Folk And Fairy Tales
 layout: default
 source: https://www.amazon.com/We-Goddesses-Athena-Aphrodite-Hera/dp/0789425866/ref=sr_1_1?dchild=1&keywords=We+Goddesses%3A+Athena%2C+Aphrodite%2C+Hera&qid=1619453525&s=books&sr=1-1
 author: Orgel
+heading: We Goddesses - Athena, Aphrodite, Hera
 ---
 <div class="summary left"><img src="{{"/assets/images/we.jpg" | relative_url}}" alt="Three women, blonde, brunette, and black-haired, holding and looking at a golden apple.">
 

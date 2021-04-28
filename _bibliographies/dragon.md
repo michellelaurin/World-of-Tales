@@ -1,8 +1,9 @@
 ---
-title: The Dragon Takes A Wife
+title: The World Of Folk And Fairy Tales
 layout: default
 source: https://www.amazon.com/Dragon-Takes-Wife-Walter-Myers/dp/0590466941/ref=sr_1_1?dchild=1&keywords=The+Dragon+Takes+A+Wife&qid=1619377284&s=books&sr=1-1
 author: Myers
+heading: The Dragon Takes A Wife
 ---
 <div class="summary left"><img src="{{"/assets/images/dragon.jpg" | relative_url}}" alt="Green dragon looking to the right and down toward a red flower with a fairy sitting on it">
 

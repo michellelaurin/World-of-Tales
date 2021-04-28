@@ -1,8 +1,9 @@
 ---
-title: The Crane Maiden
+title: The World Of Folk And Fairy Tales
 layout: default
 source: https://www.amazon.com/Crane-Maiden-Translated-Tsuru-Ongaeshi/dp/B000NZSCG6/ref=sr_1_1?dchild=1&keywords=The+Crane+Maiden&qid=1619377176&s=books&sr=1-1
 author: Matsutani
+heading: The Crane Maiden
 ---
 <div class="summary left"><img src="{{"/assets/images/crane.jpg" | relative_url}}" alt="Young girl wearing kimono and holding a bolt of fabric with a crane flying behind her">
 

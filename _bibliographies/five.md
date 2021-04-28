@@ -1,8 +1,9 @@
 ---
-title: Five-Minute Tales - More Stories To Read And Tell When Time Is Short
+title: The World Of Folk And Fairy Tales
 layout: default
 source: https://www.amazon.com/Five-Minute-Tales-Stories-Short/dp/0874837820/ref=sr_1_1?dchild=1&keywords=Five-Minute+Tales%3A+More+Stories+To+Read+And+Tell+When+Time+Is+Short&qid=1619453455&s=books&sr=1-1
 author: MacDonald
+heading: Five-Minute Tales - More Stories To Read And Tell When Time Is Short
 ---
 <div class="summary left"><img src="{{"/assets/images/five.jpg" | relative_url}}" alt="Five children circling around a pocket watch">
 

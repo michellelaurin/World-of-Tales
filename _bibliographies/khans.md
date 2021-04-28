@@ -1,8 +1,9 @@
 ---
-title: The Khan's Daughter - A Mongolian Folktale
+title: The World Of Folk And Fairy Tales
 layout: default
 source: https://www.amazon.com/Khans-Daughter-Mongolian-Folktale/dp/0590483897/ref=sr_1_1?dchild=1&keywords=The+Khan%27s+Daughter%3A+A+Mongolian+Folktale&qid=1619453596&s=books&sr=1-1
 author: Yep
+heading: The Khan's Daughter - A Mongolian Folktale
 ---
 <div class="summary left"><img src="{{"/assets/images/khans.jpg" | relative_url}}" alt="Taking up half of the space, a Mongolian girl wearing traditional garb looking out into the distance and in the bottom right hand area, a Mongolian man riding a horse with his sword drawn">
 

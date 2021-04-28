@@ -26,7 +26,7 @@ permalink: /bibliographies/
       <div class="tab-pane active show" id="alpha">
         {% for bibliographie in site.bibliographies %}
           <div class="teaser-content">
-          <h3><a href="{{ bibliographie.url |relative_url }}" alt="go to the detail page">{{ bibliographie.title }}</a></h3>
+          <h3><a href="{{ bibliographie.url |relative_url }}" alt="go to the detail page">{{ bibliographie.heading }}</a></h3>
           <p><small>Author: <em>{{ bibliographie.author }}</em></small></p>
           <p>{{ bibliographie.content }}</p>
           <a href="{{ bibliographie.source }}" target="_blank">Source</a>
@@ -37,7 +37,7 @@ permalink: /bibliographies/
         {% assign sorted_bibliographies = site.bibliographies | sort: "author" %}
         {% for bibliographie in sorted_bibliographies %}
           <div class="teaser-content">
-          <h3><a href="{{ bibliographie.url | relative_url }}" alt="go to the detail page">{{ bibliographie.title }}</a></h3>
+          <h3><a href="{{ bibliographie.url | relative_url }}" alt="go to the detail page">{{ bibliographie.heading }}</a></h3>
           <p><small>Author: <em>{{ bibliographie.author }}</em></small>
           <p>{{ bibliographie.content }}</p>
           <a href="{{ bibliographie.source }}" target="_blank">Source</a>

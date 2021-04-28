@@ -1,8 +1,9 @@
 ---
-title: Latin American Folktales - Stories From Hispanic And Indian Traditions
+title: The World Of Folk And Fairy Tales
 layout: default
 source: https://www.amazon.com/Latin-American-Folktales-Hispanic-Traditions/dp/0375714391/ref=sr_1_1?dchild=1&keywords=Latin+American+Folktales%3A+Stories+From+Hispanic+And+Indian+Traditions&qid=1619453369&s=books&sr=1-1
 author: Bierhorst
+heading: Latin American Folktales - Stories From Hispanic And Indian Traditions
 ---
 <div class="summary left"><img src="{{"/assets/images/latin.jpg" | relative_url}}" alt="Multicolored animals, two birds and a ground animal">
 
