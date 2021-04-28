@@ -5,7 +5,7 @@ source: https://www.gutenberg.org/files/15250/15250-h/15250-h.htm#d0e5705
 category: Asian Tales
 img: /assets/images/building_the_wall.jpg
 ---
-<h3><a href="{{'/tales/buildingofthewall/' | relative_url}}">The Magnanimous Girl - Chinese Tale</a></h3>
+<h3><a href="{{'/tales/magnanimousgirl/' | relative_url}}">The Magnanimous Girl - Chinese Tale</a></h3>
 
 <p>At Chin-ling there lived a young man named Ku, who had considerable ability, but was very poor; and having an old mother, he was very loth to leave home. So he employed himself in writing or painting for people, and gave his mother the proceeds, going on thus till he was twenty-five years of age without taking a wife.</p>
 

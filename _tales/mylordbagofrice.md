@@ -5,7 +5,7 @@ source: https://www.amazon.com/Ivan-Stories-Russia-Oxford-Legends/dp/0192741357
 category: Asia Tales
 img: /assets/images/building_the_wall.jpg
 ---
-<h3><a href="{{'/tales/buildingofthewall/' | relative_url}}">My Lord Bag Of Rice - Japanese Tale</a></h3>
+<h3><a href="{{'/tales/mylordbagofrice/' | relative_url}}">My Lord Bag Of Rice - Japanese Tale</a></h3>
 
 <p>Long, long ago there lived, in Japan a brave warrior known to all as Tawara Toda, or "My Lord Bag of Rice." His true name was Fujiwara Hidesato, and there is a very interesting story of how he came to change his name.</p>
 
