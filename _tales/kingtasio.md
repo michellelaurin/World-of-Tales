@@ -1,10 +1,12 @@
 ---
-title: King Tasio - Tagalog Tale
+title: The World Of Folk And Fairy Tales
 layout: default
 source: https://www.gutenberg.org/files/8299/8299-h/8299-h.htm#t11c
 category: Asia Tales
 img: /assets/images/building_the_wall.jpg
 ---
+<h3><a href="{{'/tales/kingtasio/' | relative_url}}">King Tasio - Tagalog Tale</a></h3>
+
 <p>Juan was a servant in the palace of King Tasio. One day King Tasio heard Juan discussing with the other servants in the kitchen the management of the kingdom. Juan said that he knew more than anybody else in the palace. The king called Juan, and told him to go down to the seashore and catch the rolling waves.</p>
 
 <p>"You said that you are the wisest man in the palace," said the king. "Go and catch the waves of the sea for me."</p>
@@ -34,4 +36,3 @@ img: /assets/images/building_the_wall.jpg
 <p>Juan went home. He put a very small squash, which he had growing in his garden, inside the jar. He did not, however, cut it from the vine. After a few weeks the squash had grown big enough to fill the jar. Juan then picked off the squash enclosed in the jar, and went to the king. He presented the jar to the king when all the servants, courtiers, and visitors from other towns were present. As soon as the king saw the jar with the squash in it, he fainted. It was many hours before he recovered.</p>
 
 <p>Narrated by Leopoldo Faustino, a Tagalog, who says that the story is popular and common among the people of La Laguna province.</p>
-</div>

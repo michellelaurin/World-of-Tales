@@ -1,10 +1,12 @@
 ---
-title: The Magnanimous Girl - Chinese Tale
+title: The World Of Folk And Fairy Tales
 layout: default
 source: https://www.gutenberg.org/files/15250/15250-h/15250-h.htm#d0e5705
 category: Asian Tales
 img: /assets/images/building_the_wall.jpg
 ---
+<h3><a href="{{'/tales/buildingofthewall/' | relative_url}}">The Magnanimous Girl - Chinese Tale</a></h3>
+
 <p>At Chin-ling there lived a young man named Ku, who had considerable ability, but was very poor; and having an old mother, he was very loth to leave home. So he employed himself in writing or painting for people, and gave his mother the proceeds, going on thus till he was twenty-five years of age without taking a wife.</p>
 
 <p>Opposite to their house was another building, which had long been untenanted; and one day an old woman and a young girl came to occupy it, but there being no gentleman with them young Ku did not make any inquiries as to who they were or whence they hailed. Shortly afterward it chanced that just as Ku was entering the house he observed a young lady come out of his mother's door. She was about eighteen or nineteen, very clever and refined-looking, and altogether such a girl as one rarely sets eyes on; and when she noticed Mr. Ku she did not run away, but seemed quite self-possessed.</p>
@@ -36,4 +38,3 @@ img: /assets/images/building_the_wall.jpg
 <p>Ku got a light, and ran to see what it was; and lo! there lay a white fox, head in one place and body in another. "There is your friend," cried the girl; "I knew he would cause me to destroy him sooner or later." Ku dragged it into the house, and said, "Let us wait till to-morrow to talk it over; we shall then be more calm."</p>
 
 <p>Next day the young lady arrived, and Ku inquired about her knowledge of the black art; but she told Ku not to trouble himself about such affairs, and to keep it secret or it might be prejudicial to his happiness. Ku then entreated her to consent to their union, to which she replied that she had already been as it were a daughter-in-law to his mother, and there was no need to push the thing further. "Is it because I am poor?" asked Ku. "Well, I am not rich," answered she, "but the fact is I had rather not." She then took her leave, and the next evening when Ku went across to their house to try once more to persuade her the young lady had disappeared, and was never seen again.</p>
-</div>
