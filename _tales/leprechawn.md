@@ -3,7 +3,7 @@ title: The World Of Folk And Fairy Tales
 layout: default
 source: https://www.gutenberg.org/files/19486/19486-h/19486-h.html#toc53
 category: European Tales
-img: /assets/images/building_the_wall.jpg
+img: /assets/images/leprechawn.jpg
 ---
 <h3><a href="{{'/tales/leprechawn/' | relative_url}}">The Leprechawn - Celtic Tale</a></h3>
 

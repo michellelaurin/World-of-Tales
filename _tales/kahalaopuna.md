@@ -3,7 +3,7 @@ title: The World Of Folk And Fairy Tales
 layout: default
 source: https://www.gutenberg.org/files/18450/18450-h/18450-h.htm#d0e2185
 category: North American Tales
-img: /assets/images/building_the_wall.jpg
+img: /assets/images/kahalaopuna.jpg
 ---
 <h3><a href="{{'/tales/kahalaopuna/' | relative_url}}">Kahalaopuna, Princess of Manoa - Hawaiian Tale</a></h3>
 

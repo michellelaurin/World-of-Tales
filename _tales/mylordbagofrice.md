@@ -1,9 +1,9 @@
 ---
 title: The World Of Folk And Fairy Tales
 layout: default
-source: https://www.amazon.com/Ivan-Stories-Russia-Oxford-Legends/dp/0192741357
+source: https://www.gutenberg.org/files/4018/4018-h/4018-h.htm#rice
 category: Asia Tales
-img: /assets/images/building_the_wall.jpg
+img: /assets/images/mylord.jpg
 ---
 <h3><a href="{{'/tales/mylordbagofrice/' | relative_url}}">My Lord Bag Of Rice - Japanese Tale</a></h3>
 

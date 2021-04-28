@@ -3,7 +3,7 @@ title: The World Of Folk And Fairy Tales
 layout: default
 source: https://www.gutenberg.org/files/15250/15250-h/15250-h.htm#d0e5705
 category: Asian Tales
-img: /assets/images/building_the_wall.jpg
+img: /assets/images/magnanimous.jpg
 ---
 <h3><a href="{{'/tales/magnanimousgirl/' | relative_url}}">The Magnanimous Girl - Chinese Tale</a></h3>
 
