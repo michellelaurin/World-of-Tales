@@ -172,6 +172,12 @@ body
   margin-bottom: 30px;
 }
 
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
 .site-footer {
   background-color: transparent;
   background-image: url({{ '/assets/images/map.jpg' | relative_url }});

@@ -3,6 +3,7 @@ title: The Leprechawn - Celtic Tale
 layout: default
 source: https://www.gutenberg.org/files/19486/19486-h/19486-h.html#toc53
 category: European Tales
+img: /assets/images/building_the_wall.jpg
 ---
 <p>Every mythology has its good and evil spirits which are objects of adoration and subjects of terror, and often both classes are worshipped from opposite motives; the good, that the worshipper may receive benefit; the evil, that he may escape harm. Sometimes good deities are so benevolent that they are neglected, superstitious fear directing all devotion towards the evil spirits to propitiate them and avert the calamities they are ever ready to bring upon the human race; sometimes the malevolent deities have so little power that the prayer of the pious is offered up to the good spirits that they may pour out still further favors, for man is a worshipping being, and will prostrate himself with equal fervor before the altar whether the deity be good or bad.</p>
 
@@ -79,3 +80,4 @@ category: European Tales
 <p>"'None at all,' says the polisman, 'av ye projuice the Leprechawn an' make him teshtify he gev it ye an' that ye haven't been burglarious an' sarcumvinted another man's money,' says he.</p>
 
 <p>"But Dinnis cudn't do it, so the cunsthable tumbled him into the jail. From that he wint to coort an' got thirty days at hard labor, that he niver done in his life afore, an' afther he got out, he said he'd left lookin' for Leprechawns, fur they were too shmart fur him entirely, an' it's thrue fur him, bekase I belave they were."</p>
+</div>

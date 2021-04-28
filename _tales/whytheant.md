@@ -3,8 +3,8 @@ title: Why the Ant is not so Venomous as the Snake - Tagalog Tale
 layout: default
 source: https://www.gutenberg.org/files/8299/8299-h/8299-h.htm#t65
 category: Asia Tales
+img: /assets/images/building_the_wall.jpg
 ---
-
 <p>God first created the earth. Then he took a rock from the earth and threw it on the terrestrial surface. When the rock was broken into many small pieces, he breathed into them the breath of life, and they became living creatures. At first these creatures, though differing in shapes and sizes, were not given different powers.</p>
 
 <p>Among these creatures of God's were the snake and the ant. One day the snake went to God to ask for power. It said, "I come to thee, O God! to ask for thy favor. The world thou hast just created is wild with confusion. I have come to ask thee to give me the special power to kill all those that are rebellious and troublesome."</p>
@@ -26,3 +26,4 @@ category: Asia Tales
 <p>And so it is to-day that we pinch to death the ants whenever they bite us.</p>
 
 <p>Narrated by Francisco M. Africa of Lipa, Batangas. This is a Tagalog story. The narrator testified that she heard the story from an old woman in her town of Lipa. So far as I know, this "just-so" fable of "The Ant and the Snake and God" has not been recorded outside of Lipa, Batangas; and I am inclined to believe that it represents old local tradition.</p>
+</div>

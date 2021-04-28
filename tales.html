@@ -6,8 +6,9 @@ permalink: /tales/
 <h1>Tales From Around The World</h1>
 
 {% for tale in site.tales %}
-  <div class="teaser-content">
-  <h3><a href="{{ tale.url | relative url }}" alt="go to the detail page">{{ tale.title | relative url }}</a></h3>
+  <div class="teaser-content clearfix">
+  <h3><a href="{{ tale.url | relative_url }}" alt="go to the detail page">{{ tale.title }}</a></h3>
+  <div class="summary right"><img src="{{ tale.img | relative_url}}" alt="Horse putting stones on top of another to build a wall"></div>
   <p>{{ tale.content | truncatewords: 100, "..." }}</p>
   <a href="{{ tale.source }}" target="_blank">Source</a>
   </div>

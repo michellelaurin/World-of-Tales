@@ -3,9 +3,8 @@ title: The Building Of The Wall - Norse Tale
 layout: default
 source: https://www.gutenberg.org/files/24737/24737-h/24737-h.htm#Page_3
 category: European Tales
+img: /assets/images/building_the_wall.jpg
 ---
-<div class="summary left"><img src="{{"/assets/images/building_the_wall.jpg" | relative_url}}" alt="Horse putting stones on top of another to build a wall">
-
 <p>Always there had been war between the Giants and the Gods—between the Giants who would have destroyed the world and the race of men, and the Gods who would have protected the race of men and would have made the world more beautiful.</p>
 
 <p>There are many stories to be told about the Gods, but the first one that should be told to you is the one about the building of their City.</p>
@@ -74,4 +73,4 @@ category: European Tales
 
 <p>"Only the wall I have built is so strong I would tear it down," said the Giant. He tried to throw down one of the palaces, but the Gods laid hands on him and thrust him outside the wall he had built. "Go, and trouble Asgard no more," Odin commanded.</p>
 
-<p>Then Loki returned to Asgard. He told the Gods how he had transformed himself into a little mare and had led away Svadilfare, the Giant's great horse. And the Gods sat in their golden palaces behind the great wall and rejoiced that their City was now secure, and that no enemy could ever enter it or overthrow it. But Odin, the Father of the Gods, as he sat upon his throne was sad in his heart, sad that the Gods had got their wall built by a trick; that oaths had been broken, and that a blow had been struck in injustice in Asgard.</p></div>
+<p>Then Loki returned to Asgard. He told the Gods how he had transformed himself into a little mare and had led away Svadilfare, the Giant's great horse. And the Gods sat in their golden palaces behind the great wall and rejoiced that their City was now secure, and that no enemy could ever enter it or overthrow it. But Odin, the Father of the Gods, as he sat upon his throne was sad in his heart, sad that the Gods had got their wall built by a trick; that oaths had been broken, and that a blow had been struck in injustice in Asgard.</p>

@@ -3,6 +3,7 @@ title: Kahalaopuna, Princess of Manoa - Hawaiian Tale
 layout: default
 source: https://www.gutenberg.org/files/18450/18450-h/18450-h.htm#d0e2185
 category: North American Tales
+img: /assets/images/building_the_wall.jpg
 ---
 <p>Akaaka (laughter) is a projecting spur of the mountain range at the head of Manoa Valley, forming the ridge running back to and above Waiakeakua, "the water of the gods." Akaaka was united in marriage to Nalehuaakaaka, still represented by some lehua (Metrosideros polymorpha) bushes on the very brow of the spur or ridge. They had two children, twins, Kahaukani, a boy, and Kauakuahine, a girl. These children were adopted at birth by a chief, Kolowahi, and chieftainess, Pohakukala, who were brother and sister, and cousins of Akaaka. The brother took charge of the boy, Kahaukani, a synonyme for the Manoa wind; and Pohakukala the girl, Kauakuahine, meaning the famous Manoa rain. When the children were grown up, the foster parents determined that they should be united; and the children, having been brought up separately and in ignorance of their relationship, made no objections. They were accordingly married and a girl was born to them, who was called Kahalaopuna. Thus Kolowahi and Pohakukala, by conspiring to unite the twin brother and sister, made permanent the union of rain and wind for which Manoa Valley is noted; and the fruit of such a union was the most beautiful woman of her time. So the Manoa girls, foster children of the Manoa rains and winds, have generally been supposed to have inherited the beauty of Kahalaopuna.</p>
 
@@ -69,3 +70,4 @@ category: North American Tales
 <p>The greater number of Kauhi’s people were so incensed with his cruelty to the lovely young girl that they transferred their allegiance to her, offering themselves for her vassals as restitution, in a measure, for the undeserved sufferings borne by her at the hands of their cruel chief.</p>
 
 <p>The King gave her for a bride to the young man who had not only saved her, but had been the means of avenging her wrongs.</p>
+</div>
