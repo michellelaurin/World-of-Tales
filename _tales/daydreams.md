@@ -3,7 +3,7 @@ title: The World Of Folk And Fairy Tales
 layout: default
 source: https://www.amazon.com/Ivan-Stories-Russia-Oxford-Legends/dp/0192741357
 category: European Tales
-img: /assets/images/building_the_wall.jpg
+img: /assets/images/daydreams.jpg
 ---
 <h3><a href="{{'/tales/daydreams/' | relative_url}}">Daydreams - Russian Tale</a></h3>
 
