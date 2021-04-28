@@ -7,7 +7,7 @@ permalink: /tales/
 
 {% for tale in site.tales %}
   <div class="teaser-content">
-  <h3><a href="{{ tale.url | relative url }}" alt="go to the detail page">{{ tale.title }}</a></h3>
+  <h3><a href="{{ tale.url | relative url }}" alt="go to the detail page">{{ tale.title | relative url }}</a></h3>
   <p>{{ tale.content | truncatewords: 100, "..." }}</p>
   <a href="{{ tale.source }}" target="_blank">Source</a>
   </div>
