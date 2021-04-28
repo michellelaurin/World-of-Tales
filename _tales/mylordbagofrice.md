@@ -3,10 +3,9 @@ title: The World Of Folk And Fairy Tales
 layout: default
 source: https://www.gutenberg.org/files/4018/4018-h/4018-h.htm#rice
 category: Asia Tales
+heading: My Lord Bag Of Rice - Japanese Tale
 img: /assets/images/mylord.jpg
 ---
-<h3><a href="{{'/tales/mylordbagofrice/' | relative_url}}">My Lord Bag Of Rice - Japanese Tale</a></h3>
-
 <p>Long, long ago there lived, in Japan a brave warrior known to all as Tawara Toda, or "My Lord Bag of Rice." His true name was Fujiwara Hidesato, and there is a very interesting story of how he came to change his name.</p>
 
 <p>One day he sallied forth in search of adventures, for he had the nature of a warrior and could not bear to be idle. So he buckled on his two swords, took his huge bow, much taller than himself, in his hand, and slinging his quiver on his back started out. He had not gone far when he came to the bridge of Seta-no-Karashi spanning one end of the beautiful Lake Biwa. No sooner had he set foot on the bridge than he saw lying right across his path a huge serpent-dragon. Its body was so big that it looked like the trunk of a large pine tree and it took up the whole width of the bridge. One of its huge claws rested on the parapet of one side of the bridge, while its tail lay right against the other. The monster seemed to be asleep, and as it breathed, fire and smoke came out of its nostrils.</p>

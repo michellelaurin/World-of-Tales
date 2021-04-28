@@ -3,10 +3,9 @@ title: The World Of Folk And Fairy Tales
 layout: default
 source: https://www.gutenberg.org/files/15250/15250-h/15250-h.htm#d0e5705
 category: Asian Tales
+heading: The Magnanimous Girl - Chinese Tale
 img: /assets/images/magnanimous.jpg
 ---
-<h3><a href="{{'/tales/magnanimousgirl/' | relative_url}}">The Magnanimous Girl - Chinese Tale</a></h3>
-
 <p>At Chin-ling there lived a young man named Ku, who had considerable ability, but was very poor; and having an old mother, he was very loth to leave home. So he employed himself in writing or painting for people, and gave his mother the proceeds, going on thus till he was twenty-five years of age without taking a wife.</p>
 
 <p>Opposite to their house was another building, which had long been untenanted; and one day an old woman and a young girl came to occupy it, but there being no gentleman with them young Ku did not make any inquiries as to who they were or whence they hailed. Shortly afterward it chanced that just as Ku was entering the house he observed a young lady come out of his mother's door. She was about eighteen or nineteen, very clever and refined-looking, and altogether such a girl as one rarely sets eyes on; and when she noticed Mr. Ku she did not run away, but seemed quite self-possessed.</p>

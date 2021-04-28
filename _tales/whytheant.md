@@ -3,10 +3,9 @@ title: The World Of Folk And Fairy Tales
 layout: default
 source: https://www.gutenberg.org/files/8299/8299-h/8299-h.htm#t65
 category: Asia Tales
+heading: Why the Ant is not so Venomous as the Snake - Tagalog Tale
 img: /assets/images/building_the_wall.jpg
 ---
-<h3><a href="{{'/tales/whytheant/' | relative_url}}">Why the Ant is not so Venomous as the Snake - Tagalog Tale</a></h3>
-
 <p>God first created the earth. Then he took a rock from the earth and threw it on the terrestrial surface. When the rock was broken into many small pieces, he breathed into them the breath of life, and they became living creatures. At first these creatures, though differing in shapes and sizes, were not given different powers.</p>
 
 <p>Among these creatures of God's were the snake and the ant. One day the snake went to God to ask for power. It said, "I come to thee, O God! to ask for thy favor. The world thou hast just created is wild with confusion. I have come to ask thee to give me the special power to kill all those that are rebellious and troublesome."</p>

@@ -3,10 +3,9 @@ title: The World Of Folk And Fairy Tales
 layout: default
 source: https://www.gutenberg.org/files/19486/19486-h/19486-h.html#toc53
 category: European Tales
+heading: The Leprechawn - Celtic Tale
 img: /assets/images/leprechawn.jpg
 ---
-<h3><a href="{{'/tales/leprechawn/' | relative_url}}">The Leprechawn - Celtic Tale</a></h3>
-
 <p>Every mythology has its good and evil spirits which are objects of adoration and subjects of terror, and often both classes are worshipped from opposite motives; the good, that the worshipper may receive benefit; the evil, that he may escape harm. Sometimes good deities are so benevolent that they are neglected, superstitious fear directing all devotion towards the evil spirits to propitiate them and avert the calamities they are ever ready to bring upon the human race; sometimes the malevolent deities have so little power that the prayer of the pious is offered up to the good spirits that they may pour out still further favors, for man is a worshipping being, and will prostrate himself with equal fervor before the altar whether the deity be good or bad.</p>
 
 <p>Midway, however, between the good and evil beings of all mythologies there is often one whose qualities are mixed; not wholly good nor entirely evil, but balanced between the two, sometimes doing a generous action, then descending to a petty meanness, but never rising to nobility of character nor sinking to the depths of depravity; good from whim, and mischievous from caprice.</p>

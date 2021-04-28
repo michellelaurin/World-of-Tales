@@ -6,8 +6,6 @@ category: European Tales
 heading: The Building Of The Wall - Norse Tale
 img: /assets/images/building_the_wall.jpg
 ---
-<h3><a href="{{'/tales/buildingofthewall/' | relative_url}}">The Building Of The Wall - Norse Tale</a></h3>
-
 <p>Always there had been war between the Giants and the Gods—between the Giants who would have destroyed the world and the race of men, and the Gods who would have protected the race of men and would have made the world more beautiful.</p>
 
 <p>There are many stories to be told about the Gods, but the first one that should be told to you is the one about the building of their City.</p>

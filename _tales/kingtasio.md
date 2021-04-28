@@ -3,10 +3,9 @@ title: The World Of Folk And Fairy Tales
 layout: default
 source: https://www.gutenberg.org/files/8299/8299-h/8299-h.htm#t11c
 category: Asia Tales
+heading: King Tasio - Tagalog Tale
 img: /assets/images/building_the_wall.jpg
 ---
-<h3><a href="{{'/tales/kingtasio/' | relative_url}}">King Tasio - Tagalog Tale</a></h3>
-
 <p>Juan was a servant in the palace of King Tasio. One day King Tasio heard Juan discussing with the other servants in the kitchen the management of the kingdom. Juan said that he knew more than anybody else in the palace. The king called Juan, and told him to go down to the seashore and catch the rolling waves.</p>
 
 <p>"You said that you are the wisest man in the palace," said the king. "Go and catch the waves of the sea for me."</p>
@@ -23,7 +22,7 @@ img: /assets/images/building_the_wall.jpg
 
 <p>"Very well, sir!" said Juan, and he left the palace immediately.</p>
 
-<p>The next day King Tasio saw Juan in front of the palace, riding on his paragos1 drawn by a carabao.</p>
+<p>The next day King Tasio saw Juan in front of the palace, riding on his paragos drawn by a carabao.</p>
 
 <p>"Did I not tell you not to stand or walk on my ground around this palace? Why are you here now? Do you mean to mock me?" shouted the king.</p>
 

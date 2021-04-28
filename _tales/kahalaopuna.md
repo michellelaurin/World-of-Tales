@@ -3,10 +3,9 @@ title: The World Of Folk And Fairy Tales
 layout: default
 source: https://www.gutenberg.org/files/18450/18450-h/18450-h.htm#d0e2185
 category: North American Tales
+heading: Kahalaopuna, Princess of Manoa - Hawaiian Tale
 img: /assets/images/kahalaopuna.jpg
 ---
-<h3><a href="{{'/tales/kahalaopuna/' | relative_url}}">Kahalaopuna, Princess of Manoa - Hawaiian Tale</a></h3>
-
 <p>Akaaka (laughter) is a projecting spur of the mountain range at the head of Manoa Valley, forming the ridge running back to and above Waiakeakua, "the water of the gods." Akaaka was united in marriage to Nalehuaakaaka, still represented by some lehua (Metrosideros polymorpha) bushes on the very brow of the spur or ridge. They had two children, twins, Kahaukani, a boy, and Kauakuahine, a girl. These children were adopted at birth by a chief, Kolowahi, and chieftainess, Pohakukala, who were brother and sister, and cousins of Akaaka. The brother took charge of the boy, Kahaukani, a synonyme for the Manoa wind; and Pohakukala the girl, Kauakuahine, meaning the famous Manoa rain. When the children were grown up, the foster parents determined that they should be united; and the children, having been brought up separately and in ignorance of their relationship, made no objections. They were accordingly married and a girl was born to them, who was called Kahalaopuna. Thus Kolowahi and Pohakukala, by conspiring to unite the twin brother and sister, made permanent the union of rain and wind for which Manoa Valley is noted; and the fruit of such a union was the most beautiful woman of her time. So the Manoa girls, foster children of the Manoa rains and winds, have generally been supposed to have inherited the beauty of Kahalaopuna.</p>
 
 <p>A house was built for Kahalaopuna at Kahaiamano on the road to Waiakekua, where she lived with a few attendants. The house was surrounded by a fence of auki (dracæna), and a puloulou (sign of kapu) was placed on each side of the gate, indicative of forbidden ground. The puloulou were short, stout poles, each surmounted by a ball of white kapa cloth, and indicated that the person or persons inhabiting the premises so defined were of the highest rank, and sacred.</p>
