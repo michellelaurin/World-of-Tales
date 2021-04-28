@@ -4,7 +4,7 @@ layout: default
 source: https://www.gutenberg.org/files/8299/8299-h/8299-h.htm#t65
 category: Asia Tales
 heading: Why the Ant is not so Venomous as the Snake - Tagalog Tale
-img: /assets/images/building_the_wall.jpg
+img: /assets/images/ant_and_snake.jpg
 ---
 <p>God first created the earth. Then he took a rock from the earth and threw it on the terrestrial surface. When the rock was broken into many small pieces, he breathed into them the breath of life, and they became living creatures. At first these creatures, though differing in shapes and sizes, were not given different powers.</p>
 
