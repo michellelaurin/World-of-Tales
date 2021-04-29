@@ -1,7 +1,7 @@
 ---
 title: The World Of Folk And Fairy Tales
 layout: default
-source: https://www.amazon.com/gp/product/0316292982ref=dbs_a_def_rwt_hsch_vapi_taft_p1_i4
+source: https://www.amazon.com/Anancy-Mr-Dry-Bone-Fiona-French/dp/0316292982/ref=sr_1_1?dchild=1&keywords=anancy+and+mr+dry+bones&qid=1619657645&sr=8-1
 author: French
 heading: Anancy and Mr. Dry-Bone
 ---
